@@ -6,8 +6,7 @@ def merge(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
 
 # Do not change the following code
 nums1 = []
-nums2 = []
-for item in input().split(', '):
+
   nums1.append(int(item))
 for item in input().split(', '):
   nums2.append(int(item))
